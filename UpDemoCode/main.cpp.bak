@@ -2,5 +2,9 @@
 
 int main()
 {
-	printf("Test_conflict");
+<<<<<<< HEAD
+	printf("Test_conflit");
+=======
+	printf("ConflictTest");
+>>>>>>> 0fc3e2d89991a3579bea729e12f2abdf9b58014a
 }

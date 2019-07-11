@@ -2,5 +2,6 @@
 
 int main()
 {
-	printf("Test_conflit");
+	printf("ConflictTest");
+
 }
