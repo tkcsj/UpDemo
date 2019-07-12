@@ -2,6 +2,5 @@
 
 int main()
 {
-	printf("Branch dev");
-
+	printf("Rebase s2");
 }
