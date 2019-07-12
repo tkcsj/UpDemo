@@ -2,5 +2,7 @@
 
 int main()
 {
-	printf("Rebase s2");
+
+	printf("push test");
+
 }
